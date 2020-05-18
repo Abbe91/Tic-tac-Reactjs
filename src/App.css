@@ -1,3 +1,6 @@
+body{
+  background-color: rgb(175, 189, 184);
+}
 .App {
   text-align: center;
 }
@@ -35,4 +38,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.square{
+  width: 28px;
+  height: 28px;
 }
